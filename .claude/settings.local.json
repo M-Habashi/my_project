@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(copy \"c:\\\\Users\\\\Victus\\\\Desktop\\\\folder_working\\\\d ai\\\\test\\\\config.env\" \"c:\\\\Users\\\\Victus\\\\Desktop\\\\folder_working\\\\d ai\\\\test\\\\te_connector\"\" && copy \"c:UsersVictusDesktopfolder_workingd aitestclaude_telegram_bridge.py\" \"c:UsersVictusDesktopfolder_workingd aitestte_connector\"\")",
+      "Bash(copy \"c:\\\\Users\\\\Victus\\\\Desktop\\\\folder_working\\\\d ai\\\\test\\\\start_bridge.bat\" \"c:\\\\Users\\\\Victus\\\\Desktop\\\\folder_working\\\\d ai\\\\test\\\\te_connector\"\" && copy \"c:UsersVictusDesktopfolder_workingd aitestsetup_prerequisites.py\" \"c:UsersVictusDesktopfolder_workingd aitestte_connector\"\")",
+      "Bash(copy \"c:\\\\Users\\\\Victus\\\\Desktop\\\\folder_working\\\\d ai\\\\test\\\\step-by-step-setup.md\" \"c:\\\\Users\\\\Victus\\\\Desktop\\\\folder_working\\\\d ai\\\\test\\\\te_connector\"\" && copy \"c:UsersVictusDesktopfolder_workingd aitestmobile-ai-assistant-plan.md\" \"c:UsersVictusDesktopfolder_workingd aitestte_connector\"\")",
+      "Bash(pip install:*)",
+      "Bash(playwright install:*)",
+      "Bash(python -c:*)",
+      "Bash(python -m playwright install:*)",
+      "Bash(timeout 30 python:*)",
+      "Bash(cat:*)",
+      "Bash(python claude_telegram_bridge.py:*)",
+      "Bash(taskkill:*)",
+      "Bash(powershell -Command \"Get-Process python -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue ; echo ''Done''\")",
+      "Bash(tasklist:*)",
+      "Bash(findstr:*)",
+      "Bash(powershell:*)",
+      "Bash(timeout 10 python:*)",
+      "Bash(timeout 5 python:*)",
+      "Bash(timeout 15 python -c \"\nfrom claude_telegram_bridge import ScreenshotTaker\nimport time\n\nrepo_dir = r''C:\\\\Users\\\\Victus\\\\Desktop\\\\folder_working\\\\d ai\\\\test''\nshot = ScreenshotTaker\\(repo_dir\\)\n\nprint\\(''[Testing HTTP Server]''\\)\nprocess, port, base_url = shot.start_http_server\\(repo_dir\\)\n\nif process:\n    print\\(''PASS: HTTP Server started''\\)\n    print\\(''  Port: {}''.format\\(port\\)\\)\n    print\\(''  Base URL: {}''.format\\(base_url\\)\\)\n    \n    # Cleanup\n    shot.stop_http_server\\(process\\)\n    print\\(''PASS: Server stopped successfully''\\)\nelse:\n    print\\(''FAIL: Could not start HTTP server''\\)\n\")",
+      "Bash(python -m py_compile:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
