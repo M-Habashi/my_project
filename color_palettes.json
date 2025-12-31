@@ -1,0 +1,204 @@
+{
+  "palettes": [
+    {
+      "name": "Cappuccino",
+      "colors": [
+        "#4b3832",
+        "#854442",
+        "#fff4e6",
+        "#3c2f2f",
+        "#be9b7b"
+      ]
+    },
+    {
+      "name": "Pastel Rainbow",
+      "colors": [
+        "#ffb3ba",
+        "#ffdfba",
+        "#ffffba",
+        "#baffc9",
+        "#bae1ff"
+      ]
+    },
+    {
+      "name": "Beach",
+      "colors": [
+        "#96ceb4",
+        "#ffeead",
+        "#ff6f69",
+        "#ffcc5c",
+        "#88d8b0"
+      ]
+    },
+    {
+      "name": "Beautiful Blues",
+      "colors": [
+        "#011f4b",
+        "#03396c",
+        "#005b96",
+        "#6497b1",
+        "#b3cde0"
+      ]
+    },
+    {
+      "name": "Rainbow Dash",
+      "colors": [
+        "#ee4035",
+        "#f37736",
+        "#fdf498",
+        "#7bc043",
+        "#0392cf"
+      ]
+    },
+    {
+      "name": "Space Gray",
+      "colors": [
+        "#343d46",
+        "#4f5b66",
+        "#65737e",
+        "#a7adba",
+        "#c0c5ce"
+      ]
+    },
+    {
+      "name": "Metro UI",
+      "colors": [
+        "#d11141",
+        "#00b159",
+        "#00aedb",
+        "#f37735",
+        "#ffc425"
+      ]
+    },
+    {
+      "name": "Pastel Colors",
+      "colors": [
+        "#1b85b8",
+        "#5a5255",
+        "#559e83",
+        "#ae5a41",
+        "#c3cb71"
+      ]
+    },
+    {
+      "name": "Sign Palette",
+      "colors": [
+        "#dd822c",
+        "#1e3c17",
+        "#62070b",
+        "#b62828",
+        "#60742c"
+      ]
+    },
+    {
+      "name": "Google Colors",
+      "colors": [
+        "#008744",
+        "#0057e7",
+        "#d62d20",
+        "#ffa700",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Uncharted",
+      "colors": [
+        "#ff7878",
+        "#f69c9c",
+        "#cfe5ae",
+        "#f9ffc6",
+        "#d0dffb"
+      ]
+    },
+    {
+      "name": "Bright Candies",
+      "colors": [
+        "#ff0065",
+        "#ffcb00",
+        "#fbff00",
+        "#22f460",
+        "#0bfbdb"
+      ]
+    },
+    {
+      "name": "Summer Coming",
+      "colors": [
+        "#ff4e50",
+        "#fc913a",
+        "#f9d62e",
+        "#eae374",
+        "#e2f4c7"
+      ]
+    },
+    {
+      "name": "Bootstrap Colors",
+      "colors": [
+        "#d9534f",
+        "#f9f9f9",
+        "#5bc0de",
+        "#5cb85c",
+        "#428bca"
+      ]
+    },
+    {
+      "name": "Grayscale",
+      "colors": [
+        "#4b4b4b",
+        "#606060",
+        "#878787",
+        "#a9a9a9",
+        "#bababa"
+      ]
+    },
+    {
+      "name": "Program Catalog",
+      "colors": [
+        "#edc951",
+        "#eb6841",
+        "#cc2a36",
+        "#4f372d",
+        "#00a0b0"
+      ]
+    },
+    {
+      "name": "Blood Red",
+      "colors": [
+        "#da0000",
+        "#ba0000",
+        "#a70000",
+        "#980000",
+        "#890101"
+      ]
+    },
+    {
+      "name": "Shades of Teal",
+      "colors": [
+        "#b2d8d8",
+        "#66b2b2",
+        "#008080",
+        "#006666",
+        "#004c4c"
+      ]
+    },
+    {
+      "name": "Frozen Roses",
+      "colors": [
+        "#380568",
+        "#9b07a8",
+        "#f4f1fe",
+        "#fe2072",
+        "#0e0d84"
+      ]
+    },
+    {
+      "name": "Medium Turquoise",
+      "colors": [
+        "#91e3e0",
+        "#a3e8e5",
+        "#b5ecea",
+        "#c8f1ef",
+        "#daf5f4"
+      ]
+    }
+  ]
+}
